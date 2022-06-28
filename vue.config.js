@@ -1,3 +1,4 @@
 module.exports = {
-    publicPath: '/FRUITLIST/'
-  }
+    publicPath: "/HelloWorld",
+    outputDir: "root"
+  };
